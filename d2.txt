@@ -1,2 +1,2 @@
-gdbc
-ugscb
+d2 int
+d2 string
